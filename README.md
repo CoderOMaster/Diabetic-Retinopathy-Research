@@ -32,6 +32,7 @@ This project aims to segment blood vessels in retinal images, which will be furt
 
 ## Contact
 For further information or queries, please contact the project team.
-EMAIL: keshavarorasci@gmail.com
+
+Email: keshavarorasci@gmail.com
 ---
 
